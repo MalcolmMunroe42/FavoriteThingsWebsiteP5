@@ -1,3 +1,11 @@
 * {
 	text-align: center;
 }
+
+h1 {
+	color: #b75805;
+}
+
+body {
+	background-image: url("https://www.tesla.com/sites/default/files/images/support/tesla-logo.jpg");
+}
